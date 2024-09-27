@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubmissionAkhir</string>
+    <string name="category_lokasi">Lokasi</string>
+    <string name="category_penginapan">Penginapan</string>
+    <string name="category_paketwisata">Paket Wisata</string>
+    <string name="category_berita">Berita</string>
+    <string name="category_kuliner">Kuliner</string>
+    <string name="Ajakan">Ayo Bergabung</string>
+    <string name="Ajakan2">Temukan Rekomendasi Wisata Alam, Kuliner, Paket Wisata Impianmu</string>
+    <string name="Ajakan3">Mulai</string>
+</resources>
